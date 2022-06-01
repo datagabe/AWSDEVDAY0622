@@ -1,0 +1,6 @@
+USE nyc_taxi;
+
+STOP PIPELINE drivers;
+STOP PIPELINE trips;
+STOP PIPELINE neighborhoods;
+
