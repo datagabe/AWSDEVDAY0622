@@ -1,10 +1,6 @@
-# singlestore-aws-looker-devday-01
-Singlestore, AWS and Looker Developer Day 01
+# singlestore-aws-devday-01
+Singlestore & AWS Developer Day 01
 
-Presentation Deck
+Presentation Deck & Student Guide:
 
-(pdf): https://drive.google.com/drive/folders/1Cw6mcc3-b6JHom5oDAPaogxSY0DSNObb?usp=sharing
-
-Hands On Workshop - Student Guide
-
-(pdf): https://drive.google.com/drive/folders/1Cw6mcc3-b6JHom5oDAPaogxSY0DSNObb?usp=sharing
+https://drive.google.com/drive/folders/1Cw6mcc3-b6JHom5oDAPaogxSY0DSNObb?usp=sharing
