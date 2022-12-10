@@ -3,4 +3,4 @@ Singlestore & AWS Developer Day 01
 
 Presentation Deck & Hands On Workshop - Student Guide
 
-https://drive.google.com/drive/folders/1Cw6mcc3-b6JHom5oDAPaogxSY0DSNObb?usp=sharing
+https://drive.google.com/drive/folders/1q8k_G6OzOyb5JktefbrWcktsBGKZy7fh
