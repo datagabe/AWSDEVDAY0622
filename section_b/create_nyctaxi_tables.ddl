@@ -33,7 +33,7 @@ CREATE ROWSTORE TABLE trips (
   pickup_time int(11) DEFAULT NULL,
   dropoff_time int(11) DEFAULT NULL,
   num_riders int(11) DEFAULT NULL,
-  price int(11) DEFAULT NULL,
+  price float(11) DEFAULT NULL,
   driver_id bigint(20) NOT NULL DEFAULT 0,
   PRIMARY KEY (id)
 );
